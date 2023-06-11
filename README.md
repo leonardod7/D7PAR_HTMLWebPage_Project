@@ -8,7 +8,7 @@
 
 <div>
   <p> Link do projeto
-    <a href=""> Contatos e Produtos D7PAR </a>
+    <a href="https://leonardod7.github.io/D7PAR_HTMLWebPage_Project/"> Contatos e Produtos D7PAR </a>
    </p>
 </div>
 
